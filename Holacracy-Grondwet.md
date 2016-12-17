@@ -3,7 +3,7 @@
 
 ## Voorwoord
 
-Deze **‘Grondwet’** definieert regels en processen voor het besturen en uitvoeren van een Organisatie. De personen die hiertoe (juridisch) bevoegd zijn (‘de **Gezaghebbenden’**), bekrachtigen deze regels als de formele gezagsstructuur voor de **‘Organisatie’**, zoals vastgelegd in het besluit hiertoe. Dit kan gelden voor de gehele Organisatie of een gedeelte ervan, waar de Gezaghebbenden besturend of uitvoerend gezag over hebben. De Gezaghebbenden en iedereen die akkoord gaat om deel te nemen in het besturen en uitvoeren van het werk van de Organisatie (de **‘Partners’**) kunnen terugvallen op de autoriteit die wordt gegeven door deze Grondwet en gaan tevens akkoord met het feit dat ze zijn gebonden aan de verplichtingen en beperkingen ervan. 
+Deze **‘Grondwet’** legt regels en processen vast voor het besturen en uitvoeren van een Organisatie. De personen die hiertoe (juridisch) bevoegd zijn (‘de **Gezaghebbenden’**), bekrachtigen deze regels als de formele gezagsstructuur voor de **‘Organisatie’**, zoals vastgelegd in het besluit hiertoe. Dit kan gelden voor de gehele Organisatie of een gedeelte ervan, waar de Gezaghebbenden besturend of uitvoerend gezag over hebben. De Gezaghebbenden en iedereen die akkoord gaat om deel te nemen in het besturen en uitvoeren van het werk van de Organisatie (de **‘Partners’**) kunnen terugvallen op de autoriteit die wordt gegeven door deze Grondwet en gaan tevens akkoord met het feit dat ze zijn gebonden aan de verplichtingen en beperkingen ervan. 
 
 ## Artikel 1: Rollen activeren
 
