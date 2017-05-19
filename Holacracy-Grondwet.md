@@ -405,9 +405,9 @@ De Facilitator moet het Integratief Verkiezingsproces als volgt uitvoeren:
 
 **(d) Wijzigingenronde**: Zodra alle nominaties zijn gedeeld moet de Facilitator iedere deelnemer de mogelijkheid geven om zijn of haar nominatie te wijzigen. Een deelnemer die een wijziging doet mag zijn of haar reden om een nieuwe kandidaat te selecteren uitleggen, maar de Facilitator moet alle andere reacties of discussie stoppen. 
 
-**(e) Een Voorstel maken**: Vervolgens moet de Facilitator de nominaties tellen en een Voorstel doen om de kandidaat met de meeste stemmen voor de gestelde termijn te verkiezen. Als er een gelijkspel is voor wie de meeste nominaties heeft dan mag de Facilitator een van de volgende dingen doen: **(i)** een van de kandidaten blindelings en willekeurig selecteren en die persoon voorstellen, of **(ii) **als de persoon die de Rol nu vervult een van de gelijkspelende kandidaten is, deze persoon voorstellen, of **(iii) **als een van gelijkspelende kandidaten zichzelf heeft genomineerd deze persoon voorstellen, of **(iv)** teruggaan naar de vorige stap en iedere deelnemer die iemand anders heeft genomineerd dan de gelijkspelende kandidaten vragen om die nominatie te wijzigen in een van de gelijkspelende kandidaten en dan teruggaan naar deze stap en opnieuw de regels toepassen. 
+**(e) Een Voorstel maken**: Vervolgens moet de Facilitator de nominaties tellen en een Voorstel doen om de kandidaat met de meeste stemmen voor de gestelde termijn te verkiezen. Als er een gelijkspel is voor wie de meeste nominaties heeft dan mag de Facilitator een van de volgende dingen doen: **(i)** een van de kandidaten blindelings en willekeurig selecteren en die persoon voorstellen, of **(ii)** als de persoon die de Rol nu vervult een van de gelijkspelende kandidaten is, deze persoon voorstellen, of **(iii)** als een van gelijkspelende kandidaten zichzelf heeft genomineerd deze persoon voorstellen, of **(iv)** teruggaan naar de vorige stap en iedere deelnemer die iemand anders heeft genomineerd dan de gelijkspelende kandidaten vragen om die nominatie te wijzigen in een van de gelijkspelende kandidaten en dan teruggaan naar deze stap en opnieuw de regels toepassen. 
 
-**(f) Voorstel doen: **Zodra de Facilitator een Voorstel maakt om een kandidaat te verkiezen moet de Facilitator naar het Integratief Besluitvormingsproces gaan om dat Voorstel te behandelen. Echter, de Facilitator moet direct starten met de Bezwarenronde en als de voorgestelde kandidaat aanwezig is dan moet de Facilitator deze kandidaat als laatste vragen om Bezwaren. Als er Bezwaren worden ingebracht mag de Facilitator kiezen om deze te behandelen als normaal of om het Voorstel direct na de Bezwarenronde of op ieder punt tijdens de stap van Integratie te verwerpen. Als de Facilitator ervoor kiest om het Voorstel te verwerpen, dan moet de Facilitator teruggaan naar de vorige stap in dit proces, alle nominaties voor de bestaande kandidaat verwerpen en de regels volgen van de voorgaande stap om een andere kandidaat te selecteren om in plaats daarvan voor te stellen. 
+**(f) Voorstel doen**: Zodra de Facilitator een Voorstel maakt om een kandidaat te verkiezen moet de Facilitator naar het Integratief Besluitvormingsproces gaan om dat Voorstel te behandelen. Echter, de Facilitator moet direct starten met de Bezwarenronde en als de voorgestelde kandidaat aanwezig is dan moet de Facilitator deze kandidaat als laatste vragen om Bezwaren. Als er Bezwaren worden ingebracht mag de Facilitator kiezen om deze te behandelen als normaal of om het Voorstel direct na de Bezwarenronde of op ieder punt tijdens de stap van Integratie te verwerpen. Als de Facilitator ervoor kiest om het Voorstel te verwerpen, dan moet de Facilitator teruggaan naar de vorige stap in dit proces, alle nominaties voor de bestaande kandidaat verwerpen en de regels volgen van de voorgaande stap om een andere kandidaat te selecteren om in plaats daarvan voor te stellen. 
 
 #### 3.3.7 Operationele beslissingen in Roloverleggen
 
@@ -497,11 +497,11 @@ Je hebt de plicht om berichten en verzoeken van je mede Cirkelleden snel te beha
 
 Je hebt de plicht om te prioriteren waar je je aandacht en middelen op richt, in lijn met de volgende beperkingen:
 
-**(a) Verwerking boven Uitvoering: **Je moet over het algemeen genomen binnenkomende berichten van mede Cirkelleden prioriteren boven het uitvoeren van je eigen Eerstvolgende Acties. Echter, je mag de verwerking tijdelijk uitstellen om om een aantal verwerkingsberichten tegelijkertijd te verwerken, in één tijdsblok of op een tijd die beter uitkomt, zolang je verwerking nog steeds redelijk snel is. Verwerking betekent betrokken zijn in de verplichtingen die vastgelegd zijn in dit Artikel, inclusief het overwegen van het bericht, het bepalen en vastleggen van Eerstvolgende Acties of Projecten indien mogelijk en, indien verzocht reageren hoe het bericht is verwerkt. Verwerking betekent niet het uitvoeren van vastgelegde Eerstvolgende Acties en Projecten, dat is niet gedekt in deze regel van prioritering.
+**(a) Verwerking boven Uitvoering**: Je moet over het algemeen genomen binnenkomende berichten van mede Cirkelleden prioriteren boven het uitvoeren van je eigen Eerstvolgende Acties. Echter, je mag de verwerking tijdelijk uitstellen om om een aantal verwerkingsberichten tegelijkertijd te verwerken, in één tijdsblok of op een tijd die beter uitkomt, zolang je verwerking nog steeds redelijk snel is. Verwerking betekent betrokken zijn in de verplichtingen die vastgelegd zijn in dit Artikel, inclusief het overwegen van het bericht, het bepalen en vastleggen van Eerstvolgende Acties of Projecten indien mogelijk en, indien verzocht reageren hoe het bericht is verwerkt. Verwerking betekent niet het uitvoeren van vastgelegde Eerstvolgende Acties en Projecten, dat is niet gedekt in deze regel van prioritering.
 
-**(b) Verzochte Overleggen boven Uitvoering: **Op verzoek van een mede Cirkellid moet je de aanwezigheid bij een overleg van de Cirkel, voorgeschreven in deze Grondwet, prioriteren boven het uitvoeren van je eigen Eerstvolgende Acties. Echter, je mag het verzoek nog steeds afwijzen als je al dingen had gepland op het moment dat het Overleg plaatsvindt, of als het verzoek betrekking heeft op een doorlopende serie of patroon van overleggen in plaats van een specifiek overleg. 
+**(b) Verzochte Overleggen boven Uitvoering**: Op verzoek van een mede Cirkellid moet je de aanwezigheid bij een overleg van de Cirkel, voorgeschreven in deze Grondwet, prioriteren boven het uitvoeren van je eigen Eerstvolgende Acties. Echter, je mag het verzoek nog steeds afwijzen als je al dingen had gepland op het moment dat het Overleg plaatsvindt, of als het verzoek betrekking heeft op een doorlopende serie of patroon van overleggen in plaats van een specifiek overleg. 
 
-**(c) Behoeften van de Cirkel boven Individuele Doelen: ** Bij het beoordelen van hoe je je tijd, aandacht en andere middelen van je werk in de Cirkel implementeert, moet je integreren en afstemmen met alle officiële prioriteringen of strategieën van de Cirkel, zoals die zijn gespecificeerd door de Lead Link van de Cirkel. 
+**(c) Behoeften van de Cirkel boven Individuele Doelen**: Bij het beoordelen van hoe je je tijd, aandacht en andere middelen van je werk in de Cirkel implementeert, moet je integreren en afstemmen met alle officiële prioriteringen of strategieën van de Cirkel, zoals die zijn gespecificeerd door de Lead Link van de Cirkel. 
 
 #### 4.1.4 Links mogen plichten overdragen
 
@@ -513,7 +513,7 @@ Al jouw verantwoordelijkheden en beperkingen als een Partner van de Organisatie 
 
 ### 4.2. Werkoverleggen
 
-De secretaris van de Cirkel is verantwoordelijk voor het plannen van regelmatige **'Werkoverleggen' **om de werkuitvoering van de Cirkel te begeleiden. De Facilitator is verantwoordelijk voor het voorzitten van Werkoverleggen in lijn met de volgende regels en alle relevante Domeinafspraken van de Cirkel:
+De secretaris van de Cirkel is verantwoordelijk voor het plannen van regelmatige **'Werkoverleggen'** om de werkuitvoering van de Cirkel te begeleiden. De Facilitator is verantwoordelijk voor het voorzitten van Werkoverleggen in lijn met de volgende regels en alle relevante Domeinafspraken van de Cirkel:
 
 #### 4.2.1 Focus en intentie
 
@@ -521,11 +521,11 @@ Werkoverleggen zijn bedoeld om:
 
 **(a)** de status van voltooiing van terugkerende acties op checklijsten van de Rollen van de Cirkel te delen;
 
-**(b) **regelmatige metrics die zijn toegeschreven aan de Rollen van de Cirkel om te rapporteren te delen;
+**(b)** regelmatige metrics die zijn toegeschreven aan de Rollen van de Cirkel om te rapporteren te delen;
 
-**(c) **updates over de voortgang van Projecten en ander wek van de Rollen van de Cirkel te delen; en 
+**(c)** updates over de voortgang van Projecten en ander wek van de Rollen van de Cirkel te delen; en 
 
-**(d) **Spanningen die de Rollen van de Cirkel beperken om te zetten in Eerstvolgende Acties, Projecten of andere output die helpt om die Spanningen te verminderen. 
+**(d)** Spanningen die de Rollen van de Cirkel beperken om te zetten in Eerstvolgende Acties, Projecten of andere output die helpt om die Spanningen te verminderen. 
 
 #### 4.2.2 Aanwezigheid
 
@@ -537,9 +537,9 @@ De Facilitator moet normaliter het volgende proces gebruiken voor Werkoverleggen
 
 **(a) Check-in Ronde**: De Facilitator staat het iedere deelnemer om de beurt toe om zijn of haar huidige staat van gedachten, of een ander type openingsreactie voor het Werkoverleg, te delen. Reacties zijn niet toegestaan.
 
-**(b) Checklist Review:** De Facilitator vraagt iedere deelnemer om de voltooiing van iedere terugkerende acties op de checklist van die deelnemer te verifiëren. 
+**(b) Checklist Review**: De Facilitator vraagt iedere deelnemer om de voltooiing van iedere terugkerende acties op de checklist van die deelnemer te verifiëren. 
 
-**(c) Metrics Review:** De Facilitator vraagt iedere deelnemer om data te delen voor alle metrics die zijn toegewezen aan die deelnemer door de Lead Link of welke Rol of welk proces dan ook die de metrics van de Cirkel definieert. 
+**(c) Metrics Review**: De Facilitator vraagt iedere deelnemer om data te delen voor alle metrics die zijn toegewezen aan die deelnemer door de Lead Link of welke Rol of welk proces dan ook die de metrics van de Cirkel definieert. 
 
 **(d) Project Updates**: De Facilitator vraagt iedere deelnemer om de vordering toe te lichten van de verwezenlijking van ieder Project of het uitvoeren van iedere Verantwoordelijkheid van alle Rollen in de Cirkel van de deelnemer. Deelnemers mogen alleen de vooruitgang delen die is gemaakt ten opzichte van de laatste update die is gegeven en niet de algemene status van een Project of een Verantwoordelijkheid. Iedere deelnemer mag beslissen welke Projecten of Verantwoordelijkheden het waard zijn om over te rapporteren, echter, wanneer een ander lid van de Cirkel expliciet verzoekt om updates over een specifiek Project, dan moet deze worden opgenomen totdat het is is voltooid of is laten vallen. Voor updates over de voortgang van een Project of een Verantwoordelijkheid van een Subcirkel moet de Facilitator het zowel de Lead Link als de Rep Link toestaan de mogelijkheid te geven om updates te delen. 
 
@@ -561,11 +561,11 @@ Als Partner van de Organisatie ben je in sommige gevallen bevoegd om te handelen
 
 Je mag alleen Individuele Actie nemen als al het volgende waar is:
 
-**(a) **Je handelt te goeder trouw om de Purpose te dienen of om de Verantwoordelijkheden van een Rol in de Organisatie uit te drukken of van de Organisatie in zijn geheel. 
+**(a)** Je handelt te goeder trouw om de Purpose te dienen of om de Verantwoordelijkheden van een Rol in de Organisatie uit te drukken of van de Organisatie in zijn geheel. 
 
 **(b)** Je gelooft redelijkerwijs dat jouw actie meer Spanning oplost of voorkomt voor de Organisatie dan dat het mogelijk zou creëren. 
 
-**(c) **Jouw actie veroorzaakt niet, committeert zich niet aan, staat niet toe of vervreemdt ook op een andere manier geen middelen of andere activa van de Organisatie, naast datgene waarvoor je al de toestemming hebt om uit te geven. 
+**(c)** Jouw actie veroorzaakt niet, committeert zich niet aan, staat niet toe of vervreemdt ook op een andere manier geen middelen of andere activa van de Organisatie, naast datgene waarvoor je al de toestemming hebt om uit te geven. 
 
 **(d)** Als je actie in strijd is met Domeinen of Domeinafspraken en je gelooft redelijkerwijs dat je de actie niet lang genoeg kunt uitstellen om enige verzoeken te doen die normaal vereist zijn of om Governance voor te stellen dat jouw actie toestaat, zonder daarmee veel van de potentiële waarde te verliezen. 
 
@@ -673,7 +673,7 @@ De Gezaghebbenden of hun opvolgers mogen deze Grondwet volledig wijzigen of intr
 
 ### Facilitator 
 
-**Kerndoel: **Beoefening van Rol- en Werkoverleg conform de spelregels van de Grondwet. 
+**Kerndoel**: Beoefening van Rol- en Werkoverleg conform de spelregels van de Grondwet. 
 
 **Verantwoordelijkheden**: 
 
@@ -685,7 +685,7 @@ De Gezaghebbenden of hun opvolgers mogen deze Grondwet volledig wijzigen of intr
 
 **Kerndoel**: Handhaven en stabiliseren van de formele administratie van de Cirkel.
 
-**Domeinen: **Alle Grondwettelijk-vereiste verslaglegging van de Cirkel
+**Domeinen**: Alle Grondwettelijk-vereiste verslaglegging van de Cirkel
 
 **Verantwoordelijkheden**: 
 
