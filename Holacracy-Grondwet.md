@@ -75,7 +75,7 @@ Verder mag iedere Cirkel controle uitoefenen over zijn eigen functies en activit
 
 Als je een Rol vervult in een Cirkel, dan mag je ieder Domein gebruiken en beïnvloeden dat door deze Cirkel wordt beheerd, of waarvoor de Cirkel toestemming heeft gekregen om het te beïnvloeden. Echter, je moet je houden aan mogelijke beperkingen die van toepassing zijn op de Cirkel of die vastgelegd zijn in een Domeinafspraak van de Cirkel, en je mag het Domein niet volledig beheersen of reguleren zoals beschreven in Artikel 1.4.
 
-Verder mag je het Domein of onderdelen ervan niet overdragen of er afstand van doen, noch mag je de rechten van de Cirkel ten opzichte van het Domein niet aanzienlijk beperken. Echter, deze beperkingen zijn niet van toepassingen als een Rol of een proces je de nodige toestemming geeft.
+Verder mag je het Domein of onderdelen ervan niet overdragen of er afstand van doen, noch mag je de rechten van de Cirkel ten opzichte van het Domein niet aanzienlijk beperken. Echter, deze beperkingen zijn niet van toepassing als een Rol of een proces je de nodige toestemming geeft.
 
 #### 2.1.3 Delegeren van beheer
 
@@ -243,7 +243,7 @@ In alle gevallen mag slechts één persoon toegewezen worden aan de Cross Link-R
 
 #### 2.7.3 Cross Link-autoriteit
 
-Een Cross Link wordt een Kernlid van de Doelcirkel en kan de autoriteit van een Kernlid gebruiken om Spanningen te in te brengen die gerelateerd zijn aan de Doelcirkel en die de Gelinkte Entiteit beperken. 
+Een Cross Link wordt een Kernlid van de Doelcirkel en kan de autoriteit van een Kernlid gebruiken om Spanningen in te brengen die gerelateerd zijn aan de Doelcirkel en die de Gelinkte Entiteit beperken. 
 
 Echter, naast het wegnemen van beperkingen, mag een Cross Link de Doelcirkel niet gebruiken om werk te doen voor de Gelinkte Entiteit, tenzij dit ook de Doelcirkel helpt bij het uitdrukken van zijn eigen Purpose en Verantwoordelijkheden. 
 
@@ -333,7 +333,7 @@ Als er een Bezwaar tegen een Voorstel wordt geuit gelden de volgende aanvullende
 
 **(b)** De Bezwaarmaker moet proberen het Voorstel zo te wijzigen dat zijn of haar Spanning is opgelost en het tegelijk nog steeds de Spanning van de Indiener adresseert. Anderen mogen helpen. Als de Facilitator concludeert dat de Bezwaarmaker zich niet oprecht inspant om een mogelijke wijziging te doen, dan moet de Facilitator het Bezwaar beschouwen als verworpen en doorgaan met het behandelen van het Voorstel alsof het Bezwaar niet was ingebracht. 
 
-**(c)** Ieder Kernlid van de Cirkel mag de Indiener verhelderende vragen stellen over de Spanning achter het Voorstel, of over ieder voorbeeld dat de Indiener heeft gedeeld om de Spanning toe te lichten. Als de Facilitator concludeert dat de Indiener zicht niet oprecht inspant om deze vragen te beantwoorden, dan moet de Facilitator het Voorstel beschouwen als ongeldig om te behandelen en verwerpen.
+**(c)** Ieder Kernlid van de Cirkel mag de Indiener verhelderende vragen stellen over de Spanning achter het Voorstel, of over ieder voorbeeld dat de Indiener heeft gedeeld om de Spanning toe te lichten. Als de Facilitator concludeert dat de Indiener zich niet oprecht inspant om deze vragen te beantwoorden, dan moet de Facilitator het Voorstel beschouwen als ongeldig om te behandelen en verwerpen.
 
 **(d)** De Bezwaarmaker mag een gewijzigd Voorstel voorstellen en redelijke argumenten geven waarom het de Spanning in iedere specifieke situatie die de Indiener heeft gegeven om de Spanning toe te lichten, zou oplossen of voorkomen. Daarna moet de Indiener op verzoek van de Bezwaarmaker een redelijk argument geven waarom het gewijzigde Voorstel de Spanning in minimaal één specifieke situatie die al was gegeven niet zou oplossen of voorkomen. Als alternatief mag de Indiener een extra voorbeeld geven dat niet zou worden opgelost door het gewijzigde Voorstel, zo lang dit nog steeds voldoet aan de criteria voor het behandelen van een Voorstel zoals beschreven in Artikel 3.2.2. Als de Facilitator concludeert dat de Indiener niet heeft voldaan aan deze voorwaarden, dan moet de Facilitator het Voorstel beschouwen als ongeldig om te behandelen en verwerpen. 
 
@@ -389,7 +389,7 @@ De Facilitator moet het Integratief Besluitvormingsproces als volgt uitvoeren:
 
 **(d) Wijzigen en verduidelijken**: Na de reactieronde mag de Indiener opmerkingen delen als antwoord op de reacties en wijzigingen aan het Voorstel doen. Echter, de primaire intentie van iedere wijziging moet zijn om de Spanning van de Indiener beter aan te spreken en niet de Spanningen van anderen. Tijdens deze stap moet de Facilitator direct iedere reactie van iedereen behalve de Indiener of de Secretaris stoppen en niet tolereren, en iedere bijdrage van de Secretaris moet uitsluitend gericht zijn op het vastleggen van het gewijzigde Voorstel. 
 
-**(e) Bezwarenronde**: Vervolgens mag iedere deelnemer één voor één een mogelijk Bezwaar op het aannemen van het Voorstel inbrengen. De Facilitator moet discussies of reacties van elke soort stoppen niet tolereren. De Facilitator mag Bezwaren testen zoals beschreven in Artikel 3.2.5 en moet ieder geldig Bezwaar dat overblijft na het testen vastleggen. Als er geen geldige Bezwaren zijn legt de Secretaris het Voorstel vast als aangenomen Governance voor de Cirkel. 
+**(e) Bezwarenronde**: Vervolgens mag iedere deelnemer één voor één een mogelijk Bezwaar op het aannemen van het Voorstel inbrengen. De Facilitator moet discussies of reacties van elke soort stoppen en weigeren. De Facilitator mag Bezwaren testen zoals beschreven in Artikel 3.2.5 en moet ieder geldig Bezwaar dat overblijft na het testen vastleggen. Als er geen geldige Bezwaren zijn legt de Secretaris het Voorstel vast als aangenomen Governance voor de Cirkel. 
 
 **(f) Integratie**: Als er geldige Bezwaren zijn, begeleidt de Facilitator een discussie om het Voorstel zo te wijzigen dat ieder Bezwaar één voor één wordt opgelost. De Facilitator benoemt het Bezwaar als opgelost zodra de Bezwaarmaker bevestigt dat het gewijzigde Voorstel het Bezwaar niet zou veroorzaken en de Indiener bevestigt dat het gewijzigde voorstel nog steeds de Spanning van de Indiener aanspreekt. Tijdens de discussie moet de Facilitator de regels van integratie toepassen zoals vastgelegd in Artikel 3.2.6. Zodra alle vastgelegde Bezwaren zijn aangesproken gaat de Facilitator terug naar de Bezwarenronde om te kijken of er nieuwe Bezwaren zijn op het gewijzigde Voorstel. 
 
@@ -397,7 +397,7 @@ De Facilitator moet het Integratief Besluitvormingsproces als volgt uitvoeren:
 
 De Facilitator moet het Integratief Verkiezingsproces als volgt uitvoeren:
 
-**(a) Rol omschrijven**: Als eerste moet de Facilitator de Rol waar het om gaat identificeren voor de verkiezing. De Facilitator mag ook de functies van de Rol omschrijven en andere relevantie informatie over de Rol presenteren. 
+**(a) Rol omschrijven**: Als eerste moet de Facilitator de Rol waar het om gaat identificeren voor de verkiezing. De Facilitator mag ook de functies van de Rol omschrijven en andere relevante informatie over de Rol presenteren. 
 
 **(b) Stembriefjes invullen**: Iedere deelnemer moet daarna een stembriefje invullen om uit alle mogelijke kandidaten diegene te nomineren waarvan de deelnemer denkt dat die het meest geschikt is voor de Rol. Iedere deelnemer moet het stembriefje ook kenmerken met zijn of haar eigen naam en niemand mag zich onthouden van stemmen of meerdere mensen nomineren. Voor en tijdens deze stap moet de Facilitator direct alle reacties of discussies over mogelijke kandidaten of nominaties stoppen. 
 
@@ -429,7 +429,7 @@ De Secretaris van een Cirkel mag een interpretatie die is gegeven door een Secre
 
 #### 3.4.3 Interpretaties worden standaard
 
-Na de beslissing over een interpretatie mag een Secretaris ervoor kiezen om die interpretatie en de logica erachter te publiceren in de Governance vastlegging van de Cirkel. Zodra het gepubliceerd is zijn de Secretaris van die Cirkel an de Secretarissen van elke andere Cirkel die daar onderdeel van zijn verantwoordelijk om alle toekomstige uitspraken in lijn te laten zijn met de voorgaande gepubliceerde logica en interpretaties. Een Secretaris mag voorgaande logica en interpretaties alleen tegenspreken als een overtuigend nieuw argument of een nieuwe omstandigheid een ommekeer ondersteunt. Eenmaal tegengesproken worden de nieuwe logica en interpretaties de actuele standaard waar alle toekomstige uitspraken in lijn mee moeten zijn. 
+Na de beslissing over een interpretatie mag een Secretaris ervoor kiezen om die interpretatie en de logica erachter te publiceren in de Governance vastlegging van de Cirkel. Zodra het gepubliceerd is zijn de Secretaris van die Cirkel en de Secretarissen van elke andere Cirkel die daar onderdeel van zijn verantwoordelijk om alle toekomstige uitspraken in lijn te laten zijn met de voorgaande gepubliceerde logica en interpretaties. Een Secretaris mag voorgaande logica en interpretaties alleen tegenspreken als een overtuigend nieuw argument of een nieuwe omstandigheid een ommekeer ondersteunt. Eenmaal tegengesproken worden de nieuwe logica en interpretaties de actuele standaard waar alle toekomstige uitspraken in lijn mee moeten zijn. 
 
 #### 3.4.4 Schrappen van ongeldige Governance
 
@@ -479,7 +479,7 @@ Je hebt de plicht om transparantie te geven wanneer dat gevraagd wordt door je m
 
 **(b) Relatieve prioriteit**: Je moet jouw oordeel over de relatieve prioriteit van alle Projecten of Eerstvolgende Acties die je hebt vastgelegd voor jouw Rollen in de Cirkel delen, ten opzichte van alle andere potentiële activiteiten die om jouw aandacht en middelen vragen. 
 
-**(c) Schattingen**: Je moet een schatting geven van de datum waarop je verwacht een Project of een Eerstvolgende Actie af te ronden die zijn vastgelegd voor iedere van jouw Rollen in de Cirkel. Een ruwe schatting is voldoende, kijkend naar je huidige context en prioriteiten, maar zonder gedetailleerde analyse of planning. Deze schatting is op geen enkele manier een bindende verplichting, en tenzij Governance iets anders zegt, heb je geen verplichting om de schatting vast te leggen, je werk je managen om het te bereiken of om opvolging te geven aan de ontvanger als er iets verandert. 
+**(c) Schattingen**: Je moet een schatting geven van de datum waarop je verwacht een Project of een Eerstvolgende Actie af te ronden die zijn vastgelegd voor iedere van jouw Rollen in de Cirkel. Een ruwe schatting is voldoende, kijkend naar je huidige context en prioriteiten, maar zonder gedetailleerde analyse of planning. Deze schatting is op geen enkele manier een bindende verplichting, en tenzij Governance iets anders zegt, heb je geen verplichting om de schatting vast te leggen, je werk te managen om het te bereiken of om opvolging te geven aan de ontvanger als er iets verandert. 
 
 **(d) Checklist items & Metrics**: Je moet delen of je reguliere, terugkerende acties die je routinematig uitvoert ten dienste van jouw Rollen in de Cirkel hebt volbracht. Je moet ook Metrics vastleggen en rapporteren die zijn toegewezen aan jouw Rollen door de Lead Link van de Cirkel of door een andere Rol of ander Proces die de autoriteit heeft gekregen om Metrics van de Cirkel te definiëren. 
 
@@ -523,7 +523,7 @@ Werkoverleggen zijn bedoeld om:
 
 **(b)** regelmatige metrics die zijn toegeschreven aan de Rollen van de Cirkel om te rapporteren te delen;
 
-**(c)** updates over de voortgang van Projecten en ander wek van de Rollen van de Cirkel te delen; en 
+**(c)** updates over de voortgang van Projecten en ander werk van de Rollen van de Cirkel te delen; en 
 
 **(d)** Spanningen die de Rollen van de Cirkel beperken om te zetten in Eerstvolgende Acties, Projecten of andere output die helpt om die Spanningen te verminderen. 
 
@@ -541,7 +541,7 @@ De Facilitator moet normaliter het volgende proces gebruiken voor Werkoverleggen
 
 **(c) Metrics Review**: De Facilitator vraagt iedere deelnemer om data te delen voor alle metrics die zijn toegewezen aan die deelnemer door de Lead Link of welke Rol of welk proces dan ook die de metrics van de Cirkel definieert. 
 
-**(d) Project Updates**: De Facilitator vraagt iedere deelnemer om de vordering toe te lichten van de verwezenlijking van ieder Project of het uitvoeren van iedere Verantwoordelijkheid van alle Rollen in de Cirkel van de deelnemer. Deelnemers mogen alleen de vooruitgang delen die is gemaakt ten opzichte van de laatste update die is gegeven en niet de algemene status van een Project of een Verantwoordelijkheid. Iedere deelnemer mag beslissen welke Projecten of Verantwoordelijkheden het waard zijn om over te rapporteren, echter, wanneer een ander lid van de Cirkel expliciet verzoekt om updates over een specifiek Project, dan moet deze worden opgenomen totdat het is is voltooid of is laten vallen. Voor updates over de voortgang van een Project of een Verantwoordelijkheid van een Subcirkel moet de Facilitator het zowel de Lead Link als de Rep Link toestaan de mogelijkheid te geven om updates te delen. 
+**(d) Project Updates**: De Facilitator vraagt iedere deelnemer om de vordering toe te lichten van de verwezenlijking van ieder Project of het uitvoeren van iedere Verantwoordelijkheid van alle Rollen in de Cirkel van de deelnemer. Deelnemers mogen alleen de vooruitgang delen die is gemaakt ten opzichte van de laatste update die is gegeven en niet de algemene status van een Project of een Verantwoordelijkheid. Iedere deelnemer mag beslissen welke Projecten of Verantwoordelijkheden het waard zijn om over te rapporteren, echter, wanneer een ander lid van de Cirkel expliciet verzoekt om updates over een specifiek Project, dan moet deze worden opgenomen totdat het is voltooid of is laten vallen. Voor updates over de voortgang van een Project of een Verantwoordelijkheid van een Subcirkel moet de Facilitator het zowel de Lead Link als de Rep Link toestaan de mogelijkheid te geven om updates te delen. 
 
 **(e) Verzamel _en behandel spanningen_:** De Facilitator is verantwoordelijk voor het opbouwen van een agenda van Spanningen om te behandelen in het Werkoverleg door alle deelnemers om agendapunten te vragen, gebruikmakend van dezelfde regels als in een Roloverleg, gedefinieerd in Artikel 3.3.4. Echter, in Werkoverleggen behandelt de Facilitator agendapunten door het de eigenaar van het item simpelweg toe te laten staan om anderen in hun Rollen en plichten te betrekken als gewenst, totdat er een manier voor het oplossen van de Spanning is bepaald. Als er Eerstvolgende Acties of Projecten worden geaccepteerd tijdens deze discussie dan is de Secretaris verantwoordelijk voor het vastleggen en het verspreiden hiervan naar alle deelnemers. De Facilitator moet proberen om tijd toe te staan voor het behandelen van iedere agendapunt in het overleg, en om dat te doen mag de Facilitator de behandeling van ieder agendapunt dat meer tijd inneemt dan het aandeel van de resterende overlegtijd afbreken.
 
@@ -587,7 +587,7 @@ Nadat je een Individuele Actie hebt genomen heb je de plicht om de vereiste gevo
 
 ### 5.1 Gezaghebbenden geven autoriteit op 
 
-Door het aannemen van deze Grondwet geven de Gezaghebbenden hun bevoegdheden op om de Organisatie te besturen en te leiden en om haar Partners te vertellen wat ze moeten doen. Dit mogen ze niet langer meer doen, behalve via de autoriteit die aan hen wordt toegekend via de regels en processen van deze Grondwet. Echter, als een uitzondering op deze regel, mogen de Gezaghebbenden doorgaan met het uitoefenen van de bevoegdheden waarvan ze ze niet de macht hebben om die te delegeren, zoals vereiste Domeinafspraken buiten de controle van de Organisatie of in de statuten van de Organisatie. 
+Door het aannemen van deze Grondwet geven de Gezaghebbenden hun bevoegdheden op om de Organisatie te besturen en te leiden en om haar Partners te vertellen wat ze moeten doen. Dit mogen ze niet langer meer doen, behalve via de autoriteit die aan hen wordt toegekend via de regels en processen van deze Grondwet. Echter, als een uitzondering op deze regel, mogen de Gezaghebbenden doorgaan met het uitoefenen van de bevoegdheden waarvan ze niet de macht hebben om die te delegeren, zoals vereiste Domeinafspraken buiten de controle van de Organisatie of in de statuten van de Organisatie. 
 
 ### 5.2 Ankercirkel
 
