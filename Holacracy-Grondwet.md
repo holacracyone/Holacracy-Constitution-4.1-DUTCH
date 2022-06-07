@@ -81,7 +81,7 @@ Verder mag je het Domein of belangrijke onderdelen ervan niet overdragen of er a
 
 Als een Cirkel een Domein toekent aan een van haar Rollen, dan is daarmee de bevoegdheid van de Cirkel om controle of invloed uit te oefenen op dit domein gedelegeerd aan die Rol en vervalt deze bevoegdheid van de Cirkel.
 
-Echter, de Cirkel behoudt het recht om te het Domein te wijzigen of te verwijderen, of om Domeinafspraken vast te leggen of te wijzigen die de bevoegdheid op het Domein verder inperken of verruimen.
+De Cirkel behoudt echter het recht om het Domein te wijzigen of te verwijderen, of om Domeinafspraken vast te leggen of te wijzigen die de bevoegdheid op het Domein verder inperken of verruimen.
 
 In principe is bij deze wijze van delegeren van Domeinen de bevoegdheid om afstand te doen van het Domein of belangrijke onderdelen ervan, om ze buiten de Cirkel over te dragen, of om de rechten van de Cirkel op het Domein wezenlijk in te perken, uitgesloten. Een Cirkel mag deze gehandhaafde bevoegdheden tevens delegeren, door hiervoor expliciet toestemming te verlenen in een Domeinafspraak van de Cirkel.
 
@@ -117,7 +117,7 @@ De Kernleden van de Cirkel worden bepaald volgens de volgende regels:
 
 #### 2.3.1 Basislidmaatschap
 
-Tenzij er een speciale toewijzing of uitsluiting is gemaakt onder de voorwaarden van dit Artikel, zijn de de Kernleden van de Cirkel:
+Tenzij er een speciale toewijzing of uitsluiting is gemaakt onder de voorwaarden van dit Artikel, zijn de Kernleden van de Cirkel:
 
 **(a)** iedere Partner die een Vastgelegde Rol vervult in de Cirkel;
 
@@ -292,7 +292,7 @@ Om geldig te zijn om behandeld te worden moet een Voorstel een door de Voorstell
 
 Bovendien moet een Voorstel normaal de Indiener helpen bij het beter vervullen van de Opdracht of een Verantwoordelijkheid van een van de Rollen die hij of zij vervult in de Cirkel. Echter, een Voorstel mag er ook op gericht zijn om een ander Cirkellid te helpen bij het vervullen van een van zijn of haar Rollen in de Cirkel, zij het alleen als die persoon de Indiener toestemming heeft gegeven om die Rol te vertegenwoordigen.
 
-Tenslotte is een Voorstel altijd geldig, ongeacht de voorgaande criteria, als het uitsluitend is bedoeld om de Governance van de Cirkel beter weer te laten geven wat in de praktijk al gebeurt, of om een nieuwe verkiezing te houden voor een Verkozen Rol.
+Ten slotte is een Voorstel altijd geldig, ongeacht de voorgaande criteria, als het uitsluitend is bedoeld om de Governance van de Cirkel beter weer te laten geven wat in de praktijk al gebeurt, of om een nieuwe verkiezing te houden voor een Verkozen Rol.
 
 #### 3.2.3 Toetsen van Voorstellen
 
@@ -308,7 +308,7 @@ Sommige Spanningen tellen niet als Bezwaren en mogen genegeerd worden tijden de 
 
 **(b)** De Spanning is niet een bestaande Spanning voor de cirkel, ook in afwezigheid van het Voorstel. De Spanning wordt dus gecreëerd specifiek door het aannemen van het Voorstel en zou niet bestaan als het Voorstel zou worden ingetrokken.
 
-**(c)** De Spanning volgt uit reeds bekende feiten of gebeurtenissen, zonder verwijzing naar een voorspelling van wat er in de toekomst zou kunnen gebeuren. Echter, uitgaan van voorspellingen is toegestaan wanneer er in de toekomst waarschijnlijk geen mogelijkheid zal zijn om adequaat te signaleren en te acteren voordat er verstrekkende consequenties volgen.
+**(c)** De Spanning volgt uit reeds bekende feiten of gebeurtenissen, zonder verwijzing naar een voorspelling van wat er in de toekomst zou kunnen gebeuren. Uitgaan van voorspellingen is echter toegestaan wanneer het in de toekomst waarschijnlijk niet mogelijk zal zijn om adequaat te signaleren en te handelen voordat er verstrekkende consequenties volgen.
 
 **(d)** De Spanning vermindert het vermogen van de Bezwaarmaker om de Opdracht of een Verantwoordelijkheid van een van zijn of haar rollen in de Cirkel te vervullen, of als het een andere Rol betreft heeft de Bezwaarmaker toestemming van de persoon die deze Rol normaal vervult om deze Rol te vertegenwoordigen.
 
@@ -334,7 +334,7 @@ Wanneer er een Bezwaar wordt gemaakt tegen een Voorstel gelden de volgende aanvu
 
 **(c)** Ieder Kernlid van de Cirkel mag de Voorsteller verhelderende vragen stellen over de Spanning achter het Voorstel, of over de voorbeelden die de Voorsteller heeft gedeeld om de Spanning toe te lichten. Als de Facilitator concludeert dat de Voorsteller op enig moment geen redelijke inspanning doet om die vragen te beantwoorden, dan moet de Facilitator het Voorstel als ongeldig en opgegeven beschouwen.
 
-**(d)** De Bezwaarmaker mag een gewijzigd Voorstel opperen en redelijke argumenten geven waarom het de Spanning in iedere specifieke situatie die de Voorsteller heeft genoemd om de Spanning toe te lichten, zou oplossen of voorkomen. Vervolgens moet de Voorsteller op verzoek van de Bezwaarmaker een redelijk argument geven waarom het gewijzigde Voorstel de Spanning in tenminste een van de gegeven specifieke situaties niet zou oplossen of voorkomen. Als alternatief mag de Voorsteller een aanvullend voorbeeld geven dat niet zou worden opgelost door het gewijzigde Voorstel, maar nog steeds voldoet aan de criteria voor het behandelen van een Voorstel zoals beschreven in Artikel 3.2.2. Als de Facilitator concludeert dat de Voorsteller niet heeft voldaan aan een van deze voorwaarden, dan moet de Facilitator het Voorstel als ongeldig en opgegeven beschouwen.
+**(d)** De Bezwaarmaker mag een gewijzigd Voorstel opperen en redelijke argumenten geven waarom het de Spanning in iedere specifieke situatie die de Voorsteller heeft genoemd om de Spanning toe te lichten, zou oplossen of voorkomen. Vervolgens moet de Voorsteller op verzoek van de Bezwaarmaker een redelijk argument geven waarom het gewijzigde Voorstel de Spanning in ten minste een van de gegeven specifieke situaties niet zou oplossen of voorkomen. Als alternatief mag de Voorsteller een aanvullend voorbeeld geven dat niet zou worden opgelost door het gewijzigde Voorstel, maar nog steeds voldoet aan de criteria voor het behandelen van een Voorstel zoals beschreven in Artikel 3.2.2. Als de Facilitator concludeert dat de Voorsteller niet heeft voldaan aan een van deze voorwaarden, dan moet de Facilitator het Voorstel als ongeldig en opgegeven beschouwen.
 
 ### 3.3 Roloverleggen
 
@@ -602,7 +602,7 @@ De Ondertekenaars mogen de Ankercirkel ook zonder Lead Link laten en in plaats d
 
 #### 5.2.2 Handelen zonder een Lead Link
 
-Als de Ankercirkel geen Lead Link heeft worden alle besluiten die normaal Lead Link- bevoegdheid vereisen geldige uitkomsten van het Governance-Proces van de Cirkel. Iedere Rol in de Cirkel kan dus Lead Link-bevoegdheid uitoefenen door een besluit voor te stellen als een wijziging van de Governance van de cirkel, volgens het proces en de regels in Artikel 3.
+Als de Ankercirkel geen Lead Link heeft worden alle besluiten die normaal Lead Link-bevoegdheid vereisen geldige uitkomsten van het Governance-Proces van de Cirkel. Iedere Rol in de Cirkel kan dus Lead Link-bevoegdheid uitoefenen door een besluit voor te stellen als een wijziging van de Governance van de cirkel, volgens het proces en de regels in Artikel 3.
 
 Verder wordt in een Ankercirkel zonder Lead Link de normale bevoegdheid van Rollen om autocratisch invloed uit te oefenen op Domeinen van de Cirkel (zie Artikel 2.1.2) ingetrokken. In plaats daarvan mogen de Rollen van de Cirkel alleen invloed uitoefenen op Domeinen als een Domeinafspraak die beïnvloeding expliciet toestaat, of alternatief door de actie voor te stellen middels het Governance-Proces van de Cirkel, precies zoals hierboven beschreven voor Lead Link-bevoegdheid.
 
